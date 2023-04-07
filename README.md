@@ -17,7 +17,7 @@ This is a simple Tic Tac Toe game implemented in Java using Swing and AWT.
 # ScreenShots
 <p align="center">
   <img src="images/player1win.png" height="400" hspace="20">
-  <img src="images/draw.png" height="400" hspace="20">
   <img src="images/player2win.png" height="400" hspace="20">
+  <img src="images/draw.png" height="400" hspace="20">
 </p>
 
